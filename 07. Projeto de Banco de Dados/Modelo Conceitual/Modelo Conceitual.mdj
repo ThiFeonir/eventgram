@@ -216,7 +216,7 @@
 									"height": 13,
 									"autoResize": false,
 									"underline": false,
-									"text": "User",
+									"text": "Users",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5,
 									"wordWrap": false
@@ -265,88 +265,6 @@
 							},
 							"columnCompartment": {
 								"$ref": "AAAAAAFh7B9obC8ofHY="
-							}
-						},
-						{
-							"_type": "ERDEntityView",
-							"_id": "AAAAAAFh7B+x0i81Rg4=",
-							"_parent": {
-								"$ref": "AAAAAAFLzntJC6ElOqo="
-							},
-							"model": {
-								"$ref": "AAAAAAFh7B+x0S8zEzE="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAFh7B+x0i82tBQ=",
-									"_parent": {
-										"$ref": "AAAAAAFh7B+x0i81Rg4="
-									},
-									"visible": true,
-									"enabled": true,
-									"lineColor": "#000000",
-									"fillColor": "#ffffff",
-									"fontColor": "#000000",
-									"font": "Arial;13;1",
-									"showShadow": true,
-									"containerChangeable": false,
-									"containerExtending": false,
-									"left": 200,
-									"top": 221,
-									"width": 132.07177734375,
-									"height": 13,
-									"autoResize": false,
-									"underline": false,
-									"text": "ADM",
-									"horizontalAlignment": 2,
-									"verticalAlignment": 5,
-									"wordWrap": false
-								},
-								{
-									"_type": "ERDColumnCompartmentView",
-									"_id": "AAAAAAFh7B+x0y832xw=",
-									"_parent": {
-										"$ref": "AAAAAAFh7B+x0i81Rg4="
-									},
-									"model": {
-										"$ref": "AAAAAAFh7B+x0S8zEzE="
-									},
-									"visible": true,
-									"enabled": true,
-									"lineColor": "#000000",
-									"fillColor": "#ffffff",
-									"fontColor": "#000000",
-									"font": "Arial;13;0",
-									"showShadow": true,
-									"containerChangeable": false,
-									"containerExtending": false,
-									"left": 200,
-									"top": 239,
-									"width": 132.07177734375,
-									"height": 10,
-									"autoResize": false
-								}
-							],
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 200,
-							"top": 216,
-							"width": 132.07177734375,
-							"height": 49,
-							"autoResize": false,
-							"nameLabel": {
-								"$ref": "AAAAAAFh7B+x0i82tBQ="
-							},
-							"columnCompartment": {
-								"$ref": "AAAAAAFh7B+x0y832xw="
 							}
 						},
 						{
@@ -1923,7 +1841,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFLzntJC6EktCk="
 					},
-					"name": "User",
+					"name": "Users",
 					"ownedElements": [
 						{
 							"_type": "ERDRelationship",
